@@ -1,0 +1,72 @@
+https://sites.google.com/view/germeval2017-absa/home
+
+# Task A) relevant/not relevant
+#
+# Task B) sentiment: negative, neutral, positive
+#
+# Task C) Aspect-level Polarity
+#         identify the categories already defined and their polarity
+#
+# Task D) linguistic expression in the posts which are used to express the aspect-based
+#         sentiment (subtask C). The opinion target expression is defined by its starting
+#         and ending offsets.
+#
+# Categories
+# =========
+#
+# Allgemein: General statement about the DB, which can not be assigned to any other
+#            category.
+#
+# Atmosphäre: The "Atmosphere" category provides feedback on subjects such as a pleasant
+#             and relaxed journey to the destination, noise levels, noise from the train
+#             or other passengers' harassment, the possibility of concentration or
+#             interaction with other travelers.
+#
+# Lautstärke: The sub-category "volume" in the category "Atmosphere" groups feedback
+#             on noise caused by the train, volume of the disagreement or harassment by
+#             other passengers.
+#
+# Beleuchtung: The subcategory "lighting" contains feedback on light, lighting etc.
+#              For example, light is too bright, too cold light, etc...
+#
+# Fahrgefühl: The category "Sensation" groups feedback on topics like wobbling or
+#             rocking the train and (un) quiet ride.
+#
+# Temperatur: The "Temperature" category groups feedback on subjects such as the
+#             operability of the air conditioner, ventilation or the perceived
+#             temperature.
+#
+# Sauberkeit allgemein: The subcategory "Cleanliness in general" groups feedback on topics
+#                       such as the cleanliness of the train outside and inside (except
+#                       for the seat, toilet and the Bordbistro), damage (e.g. graffiti),
+#                       cleanliness in the passenger compartment, corridors and entrance
+#                       areas or usability of waste containers.
+#
+# Geruch: The subcategory "smell" groups feedback on the smell, stench and (stuffy) air.
+#
+# Connectivity: The "Connectivity" category provides feedback on issues such as the
+#               presence, speed, and stability of the wireless and mobile Internet
+#               connection, information and entertainment (ICE Portal), and the
+#               availability and quality of mobile phone reception.
+#
+# WLAN/Internet: All about WLAN / Internet. Both the "offer", as well as availability of
+#                the WLAN / internet offer, reception, usability of the internet via WLAN,
+#                in particular with regard to speed and connection stability, also the
+#                topic "free WLAN", to the free Internet of the first class as well as
+#                feedback to the pricing of the WLAN offer in the second class can be
+#                found here.
+#
+# Telefonie/Handyempfang: The "Telephony / mobile phone reception" subcategory of the
+#                         "Connectivity" category groups feedback on the usability of the
+#                         telephony during the train journey, in particular regarding
+#                         the availability and quality of the mobile phone reception.
+#
+# ICE Portal: The subcategory "ICE Portal" groups feedback on the ICE portal
+#             (info and entertainment portal), such as availability, technical problems,
+#             loading time and content.
+#
+# Design: The "Design" category groups feedback on topics such as the visual design,
+#         interior design, carpet and general appearance of the train. For formulations
+#         such as "new train" the category should only be selected if the formulation
+#         is solitary, not if further specified as in "new train, nevertheless
+#         unpunctual ...".

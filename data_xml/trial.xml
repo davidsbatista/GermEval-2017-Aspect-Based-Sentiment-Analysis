@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Documents>
+	<Document id="http://twitter.com/6TownsMart/statuses/718525915534331904">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@Thirsty_Pilgrim 5mins S-Bahn to Hauptbahnhof Joe, that was an excellent recommendation</text>
+    </Document>
+    <Document id="http://twitter.com/Velomotion\_App/statuses/682564767081435137">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Mark Cavendish feiert beim Worldcup in Hongkong am 16. Januar sein Comeback auf der Bahn. https://t.co/4XMWBHcr9p</text>
+    </Document>
+    <Document id="http://twitter.com/Klimaatcombi/statuses/733190664402415616">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@Agent_mob @bahnONLINEch Und so kann die Bahn ständig erneuert werden.</text>
+    </Document>
+    <Document id="http://www.finanznachrichten.de/nachrichten-2016-01/36122879-dobrindt-will-bahn-fahren-attraktiver-machen-die-bundesregierung-will-mehr-wettbewerb-auf-der-schiene-198.htm">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Dobrindt will Bahn fahren attraktiver machen: Die Bundesregierung will mehr Wettbewerb auf der Schiene ... 13.01.2016 | 11:07 WirtschaftsWoche Online · WirtschaftsWoche Online Die Bundesregierung will mehr Wettbewerb auf der Schiene und so Bahn fahren attraktiver machen. Ein Gesetzesentwurf von Verkehrsminister Dobrindt trifft die Deutsche Bahn an einer</text>
+    </Document>
+    <Document id="http://www.stimme.de/deutschland-welt/newsticker/Tarife-Bahn-Bahn-Streik-beendet\;art305,3379065">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="11" target="Bahn-Streik" polarity="positive"/>
+            <Opinion category="Allgemein#Haupt" from="20" to="31" target="Bahn-Streik" polarity="positive"/>
+            <Opinion category="Allgemein#Haupt" from="171" to="177" target="Streik" polarity="positive"/>
+            <Opinion category="Allgemein#Haupt" from="218" to="229" target="streikenden" polarity="negative"/>
+            <Opinion category="Service_und_Kundenbetreuung#Zugbetreuung" from="230" to="243" target="GDL-Lokführer" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Bahn-Streik beendet Bahn-Streik beendet Die Lokführergewerkschaft GDL hat sich mit der Deutschen Bahn überraschend auf eine Schlichtung geeinigt und beendet ihren neunten Streik bei dem Konzern noch vor Pfingsten. Die streikenden GDL-Lokführer werden sich laut Gewerks</text>
+    </Document>
+    <Document id="http://www.facebook.com/129349103260/posts/10152957223388261?comment\_id=10152958340128261#129349103260\_10152957223388261\_10152958340128261">
+        <Opinions>
+            <Opinion category="Ticketkauf#Haupt" from="234" to="252" target="zugfahren zu teuer" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: stuttgarter-zeitung.de fahrgemeinschaften bilden, mitfahrzentrale.de, fernbusse - meine güte, ich bin vor zwanzig janren jedes wochenende mit der mitfahrzentrale von stuttgart nach bonn gefahren, schlicht und ergreifend, weil mir zugfahren zu teuer war! wenn man von a nach b will, kommt man da hin - man muss halt in ausnahmesituationen auch mal bereit sein, die komfortzone zu verlassen und damit leben, dass man sich auch mal anstrengen muss!</text>
+    </Document>
+    <Document id="http://twitter.com/TheDravn/statuses/660646759190917120">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@trivialerweise Das ist es nie... Und wenn es noch irgendwo in der Bahn drin ist, riecht das ja auch noch sehr lecker... Manche können sich</text>
+    </Document>
+    <Document id="http://twitter.com/newsjules/statuses/639692490967252993">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@DB_Bahn Habe ich gemerkt. Jetzt in der zweiten Fuhre passe ich jetzt auch in den Minibus ;-)</text>
+    </Document>
+    <Document id="http://twitter.com/GoldmanS\_Sux/statuses/674736389548806148">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>#Flüchtlinge Polizei fahndet nach dreister S-Bahn-Bande im Ruhrgebiet https://t.co/tVToNmfhc6 Als BELOHNUNG kriegen sie dann Asyl LOL</text>
+    </Document>
+    <Document id="https://www.instagram.com/p/BD8kcRjphhK/">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: lichtbild_u.schneider #Thale Richtung Bahnhof und Bodetal #thale #heimat #bahn #schrankenhaus #gleise #hexentanzplatz #rosstrappe</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/845916738777602#152033178165965\_845916738777602">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="20" to="26" target="streik" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Re: DB Bahn Ist der streik jetzt beendet So das die züge normal fahren</text>
+    </Document>
+    <Document id="http://twitter.com/elba013/statuses/639756093443411968">
+        <Opinions>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="25" to="43" target="technische Störung" polarity="positive"/>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="81" to="93" target="Verspätungen" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>RT @streckenagent_M: #S1 technische Störung in #Neufahrn behoben. Keine weiteren Verspätungen. #MVV #s- bahn http://t.co/47uWCYXMFZ</text>
+    </Document>
+    <Document id="http://www.facebook.com/57541544534/posts/10154794849149535?comment\_id=10154795620004535#57541544534\_10154794849149535\_10154795620004535">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Galileo Vor 15 Jahren sind wir die Bahn schon in Kandersteg geritten! Thomas Walter Anna Papenberg</text>
+    </Document>
+    <Document id="http://twitter.com/dealdoktor/statuses/718376081221414913">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Megabus: Hin- &amp; Rückfahrt ab 2,50€ ► https://t.co/fspb7eKwiF #fernbus #megabus #reise #bahn #sparen #günstig https://t.co/VrwXxMlY3U</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/1038925659476708?comment\_id=1039750406060900#152033178165965\_1038925659476708\_1039750406060900">
+        <Opinions>
+            <Opinion category="DB_App_und_Website#Störungen_DB_App_und_Website" from="79" to="85" target="Fehler * DB Navigator" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: Deutsche Bahn Personenverkehr "Ich fände es toll, wenn endlich der nervige Fehler im DB Navigator ""Abfahrt"" beim Windows Phone behoben wird, der seit WOCHEN existiert. Scheinbar hat die DB kein Interesse daran, diesen Fehler zu beheben."</text>
+    </Document>
+    <Document id="http://immo.infranken.de/immobilien/K66360772">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>14-Zimmer Kaufen, Hauptstr. 18, Zapfendorf (96199), für 100000 € Verkehrsanbindung durch die Bundesbahn und die Autobahn ist vorhanden. Zahlreiche weitere Angebote finden Sie unter www.immobilien-pfister.de Die Immobilie wird versteigert und kann unter Umständen zu 70% des Verkehrswertes</text>
+    </Document>
+    <Document id="http://twitter.com/NancyOhLaLa/statuses/693759783439110144">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @astefanowitsch: . @DB_Bahn Könnten Vorgesetzte von Herrn/Frau „/ki“ sich hierzu bitte äußern? Mfg, ein langjähriger BC100-Kunde. https:…</text>
+    </Document>
+    <Document id="http://www.facebook.com/137704946419783/posts/472744556249152#137704946419783\_472744556249152">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>interesse.telekom.de VIP Tickets Gewinnspiel - Bayern gegen Borussia Mönchengladbach 2 VIP Tickets für das Megaduell der Bundesliga FC Bayern - Borussia Mönchengladbach Ende April 2016 zu gewinnen Das Spiel der beiden Serienmeister der 70er Jahre ist (fast) ausverkauft. Wer jetzt mitmacht hat die Riesen-Chance auf 2 der begehrten Karten. Sie erhalten ausserdem die Anreise mit der Bahn und eine Nacht in einem Münchener Hotel sowie einen Sektempfang in ihrer VIP Lounge, alles inklusive. Die Teilnahme ist kostenlos - Die Gewinner werden direkt nach Teilnahmeschluss ermittelt und benachrichtigt. Du willst den FCB bei einem kühlen Getränk in der VIP-Lounge erleben? Hier kannst du jetzt 3 x 2 VIP Tickets inklusive Übernachtung und Anreise für das Spitzenspiel gewinnen! Hier geht’s direkt zur Teilnahme:</text>
+    </Document>
+    <Document id="http://twitter.com/\_morre\_/statuses/693763018786734080">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@advotuxde @sphericon @DB_Bahn welcher denn?</text>
+    </Document>
+    <Document id="http://twitter.com/de\_Tocqueville/statuses/718472115020767232">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@DB_Bahn @Regio_NRW Ich weiß, da ich dort drin saß. Mich interessiert nur der Grund für diesen Sonderzug ;)</text>
+    </Document>
+    <Document id="http://www.facebook.com/142040169195005/posts/908540635878284?comment\_id=908598265872521#142040169195005\_908540635878284\_908598265872521">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="37" to="51" target="verdienen sich" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: The Epoch Times Deutschland Erst verdienen sich Bus und Bahn an den Flüchtlingen dumm und dämlich und im Winter die Beerdiungsinstitute so kann man den Arbeitsmarkt auch wieder flott machen (Ironie ende).</text>
+    </Document>
+    <Document id="http://www.facebook.com/65951004292/posts/10153406387874293?comment\_id=10153407908329293#65951004292\_10153406387874293\_10153407908329293">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Goal.com Deutschland "Damir, das leben als Hurensohn wo in seiner Kindheit mitgesehen hat wie seine Mutter durchgenommen wurde von unseren Türkischen Mitbürgern scheinst du nichtmehr zu verkraften aber jetzt kommt ein sehr sehr guter Rat von mir. An deiner Stelle würde ich versuchen mich bei einem Jobcenter zu melden anstatt mich mit meinem 45 Jahre ,„jungen"" alter vorm PC den ganzen Tag irgendwelche dummen Beleidigungen gegenüber anderen Menschengruppen auszulassen. Oder du bist ja so intelligent und klug vielleicht kann dir ja mein Vater der „scheiß"" Türke,Muslime was auch immer du denkst.. helfen dir einen Arbeitsplatz bei seiner Firma als Putzkraft zu besorgen. Selbst das wäre deiner Intelligenz zu viel aber was willst du machen neben deinem Hartz IV Lohn wäre so ein 450€ Lohn eine sehr ausgeprägte und innovative Einnahmequelle was du von einem dummen Dreckstürken bekommst.PS. Mit der S4 kannst du mit der S Bahn von Bruchsal Richtung Heilbronn fahren wenn dein Geld für das Ticket ausreicht"</text>
+    </Document>
+    <Document id="http://twitter.com/MaklerTweet/statuses/704349625419849728">
+        <Opinions>
+            <Opinion category="Service_und_Kundenbetreuung#Haupt" from="17" to="35" target="kundenfreundlicher" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Infografik: Bahn kundenfreundlicher als Versicherungen https://t.co/TgxZtD8k2w</text>
+    </Document>
+    <Document id="http://twitter.com/urkueken/statuses/640569365469995008">
+        <Opinions>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="47" to="53" target="später" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Der Zug fährt heute von Gleis 7 und 20 Minuten später. So macht die Bahn auch zum Feierabend mobil.</text>
+    </Document>
+    <Document id="http://twitter.com/Official48Indo/statuses/718397934690181124">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Bahn-Chef verspricht - Nie wieder Chaos bei der Bahn?: Die Deutsche Bahn verspricht Verbesserungen. Bahnho... https://t.co/E8HW1W8jlM</text>
+    </Document>
+    <Document id="https://plus.google.com/+BrunoKassel/posts/cyyRvYvhuZe">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Beste Grüße an alle DB-Endanwender von Barbara. Beste Grüße an alle DB-Endanwender von Barbara.﻿ -Photo: Deutsche Bahn.jpg https://lh3.googleusercontent.com/-LeBpkL5XFqQ/Vs-iDWCF0fI/AAAAAAAAiGc/jo-ul0e9H5c/w1575-h1170/Deutsche%2BBahn.jpg</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/1007485479287393?comment\_id=1007545425948065#152033178165965\_1007485479287393\_1007545425948065">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="86" to="108" target="SOLLTE VERBOTEN WERDEN" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: Deutsche Bahn Personenverkehr DAS ISS DOCH WIEDER NUR BAUER FÄNGEREI VON DER BAHN!SOLLTE VERBOTEN WERDEN ABER DIE DB ISS STAATLICH!DA KANN MAN DAS VOLK VERARSCHEN!</text>
+    </Document>
+    <Document id="http://twitter.com/CHRiSSMiLESS/statuses/702880874010943488">
+        <Opinions>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="36" to="52" target="bahn kommt nicht" polarity="negative"/>
+            <Opinion category="Atmosphäre#Lautstärke" from="71" to="76" target="heult" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>RT @dllrjhn: kopfhörer geht schrott bahn kommt nicht kind am bahnsteig heult will vielleicht noch jemand meine schwester ficken</text>
+    </Document>
+    <Document id="http://twitter.com/EvelynKeller70/statuses/682607374063038472">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@DB_Bahn Trotzdem danke.</text>
+    </Document>
+    <Document id="http://twitter.com/Glueckspfennig/statuses/660437249230635008">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @gleichundanders: Lieblingslieder hören in der Bahn hat den unangenehmen Nebeneffekt dass man tanzen &amp; mitsingen will. Blöd wenn man bei…</text>
+    </Document>
+    <Document id="http://www.facebook.com/180192618777509/posts/748399575290141?comment\_id=748634225266676#180192618777509\_748399575290141\_748634225266676">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: FOCUS-Online-Digital Warum nicht alle einsammeln, mit der Bahn ans Meer und auf ein Schiff treiben und ab Richtung Heimat. Müsste eigentlich effektiver und sicherer sein als mit dem Flieger.</text>
+    </Document>
+    <Document id="http://bundespressecom.tumblr.com/post/128312761520/db-bahnticket-hamburg-m%C3%BCnchen-1809-um-1601">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>marketingportal.li — DB Bahnticket Hamburg – München 18.09.. um 16.01... DB Bahnticket Hamburg – München 18.09.. um 16.01 2. Klasse ICE EUR 44,00Angebotsende: Freitag Sep-11-2015 6:26:34 CESTSofort-Kaufen für nur: EUR 44,00Sofort-Kaufen | Zur Liste der beobachteten Artikel hinzufügen</text>
+    </Document>
+    <Document id="http://twitter.com/iw\_koeln/statuses/601348469345751041">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Endlich Schlichtung bei GDL und @DB_Bahn. Die Gefahr: #EVG und #GDL könnten um den höchsten Abschluss wetteifern. http://t.co/tJWTihLfDe</text>
+    </Document>
+    <Document id="http://twitter.com/CoDIRECT\_BIZ/statuses/601256747190329344">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="64" to="75" target="Ewig-Streik" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Halbjährlich grüßt das #GdL-Murmeltier @DB_Bahn. November 2014: Ewig-Streik, den C.W. vorzeitig beendet. Mai 2015: Similar procedure.</text>
+    </Document>
+    <Document id="http://www.augsburger-allgemeine.de/landsberg/S-Bahn-in-den-Ferien-nur-im-Stundentakt-id34149297.html">
+        <Opinions>
+            <Opinion category="Zugfahrt#Streckennetz" from="40" to="51" target="Stundentakt" polarity="negative"/>
+            <Opinion category="Zugfahrt#Streckennetz" from="197" to="212" target="60-Minuten-Takt" polarity="negative"/>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="218" to="231" target="Zwischenhalte * entfallen" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Nahverkehr: S-Bahn in den Ferien nur im Stundentakt | Nachrichten Landsberg Von Samstag, 23. Mai, 4 Uhr, bis Samstag, 6. Juni, 4 Uhr, gibt es zwischen München Hauptbahnhof und Geltendorf nur einen 60-Minuten-Takt, die Zwischenhalte zwischen Hauptbahnhof und Pasing entfallen und zwischen Pasing und Buchenau wird ein Schienene</text>
+    </Document>
+    <Document id="http://twitter.com/Jojochuuu/statuses/601319884124004352">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="98" to="104" target="Streik" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>@FlanniScarlet schon mitbekommen dass du Samstag zum Japantag kommen kannst? :3 bahn hört mit dem Streik auf ^-^</text>
+    </Document>
+    <Document id="http://twitter.com/Campe23/statuses/660431932556226564">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@FCBgerhard Nein das stimmt. Das kann dann nichts mit der Bahn zu tun haben ;)</text>
+    </Document>
+    <Document id="http://www.nationaler-radverkehrsplan.de/neuigkeiten/news.php?id=4905">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Bike and Ride in Berlin: Neue Doppelstockparkplätze für Fahrräder am S-Bahnhof Pankow - Fahrradportal | Bike and Ride in Berlin: Neue Doppelstockparkplätze für Fahrräder am S-Bahnhof Pankow - Fahrradportal Nationaler Radverkehrsplan Bike and Ride in Berlin: Neue Doppelstockparkplätze für Fahrräder am S-Bahnhof Pankow Stärkung der Radverkehrsstrategie des Berliner Senats: Erhöhte Stellplatzkapazitäten erweitern Einzugsbereich von Bahnhöfen um das Fünffache. Senatsverwaltung für</text>
+    </Document>
+    <Document id="http://www.facebook.com/346392590975/posts/10153450350215976#346392590975\_10153450350215976">
+        <Opinions>
+            <Opinion category="Sicherheit#Haupt" from="12" to="30" target="Sicherheitsrisiken" polarity="negative"/>
+            <Opinion category="Sicherheit#Haupt" from="37" to="48" target="Funklöchern" polarity="negative"/>
+            <Opinion category="Connectivity#WLAN_und_Internet" from="120" to="128" target="Internet" polarity="negative"/>
+            <Opinion category="Sicherheit#Haupt" from="169" to="175" target="Notruf" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>faz.net Die Sicherheitsrisiken wegen Funklöchern bei der Bahn sind größer als gedacht Wir beschweren uns über fehlendes Internet im Zug, aber im Ernstfall nicht mal den Notruf wählen können?</text>
+    </Document>
+    <Document id="http://twitter.com/mrs\_mbarek47/statuses/674707749394075649">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @FreshSchorsch: Macht SSIO Werbung für die Deutsche Bahn ?? https://t.co/6Knuem6Rem</text>
+    </Document>
+    <Document id="https://plus.google.com/+onlinekosten/posts/WAhM96tfpqr">
+        <Opinions>
+            <Opinion category="DB_App_und_Website#Haupt" from="43" to="55" target="DB Navigator" polarity="positive"/>
+            <Opinion category="DB_App_und_Website#Haupt" from="166" to="178" target="DB Navigator" polarity="positive"/>
+            <Opinion category="Ticketkauf#Haupt" from="324" to="331" target="Tickets" polarity="positive"/>
+            <Opinion category="DB_App_und_Website#Haupt" from="372" to="383" target="DBNavigator" polarity="positive"/>
+            <Opinion category="Ticketkauf#Haupt" from="626" to="633" target="Tickets" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>" Die Deutsche #Bahn hat die Reise-App " " DB Navigator " " komplett überarbeitet und ihr ein neues Design spendiert ... " " Die Deutsche #Bahn hat die Reise-App " " DB Navigator " " komplett überarbeitet und ihr ein neues Design spendiert . Nutzer profitieren von neuen Funktionen wie " " Meine Reise " " . Die Buchung von Tickets für den Nahverkehr wurde erleichtert . #DBNavigator ( jsc / Bild : Deutsche Bahn ) ﻿ -Article : Die Deutsche Bahn hat die Reise-App " " DB Navigator " " komplett überarbeitet und ihr ein neues Design spendiert . Nutzer profitieren von neuen Funktionen wie " " Meine Reise " " . Die Buchung von Tickets für den Nahverkehr wurde erleichtert . http://www.onlinekosten.de/news/artikel/62383/0/DB-Navigator-Neues-Design-und-neue-Features "</text>
+    </Document>
+    <Document id="http://www.facebook.com/97515118114/posts/10153959270573115?comment\_id=10153959376753115#97515118114\_10153959270573115\_10153959376753115">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: DIE WELT Auf die Bahn....? #lachflash Die Bahn fährt über 50% ihrer Güter selbst mit dem Lkw. Solche Speditionen wie Schenker sind 1oo % Bahntöchter!</text>
+    </Document>
+    <Document id="http://www.br.de/nachrichten/oberbayern/inhalt/oberlandbahn-baustellen-pendler-bahn-100.html">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Baustellen, Fernverkehr und Güterzüge: Bayerische Oberlandbahn fühlt sich ausgebremst | Oberbayern Baustellen, Fernverkehr und Güterzüge Bayerische Oberlandbahn fühlt sich ausgebremst Meridian-Pendler zwischen Salzburg, Kufstein und München müssen in den letzten Wochen wieder enorme Geduld aufbringen. Die Großbaustelle seit Ende Februar führt zu</text>
+    </Document>
+    <Document id="https://dasfliegendeklassenzimmerblog.wordpress.com/2016/04/08/die-jagdsaison-ist-eroeffnet-von-dem-verzweifelten-versuch-einen-fahrradstellplatz-im-nachtzug-zu-buchen/">
+        <Opinions>
+            <Opinion category="Auslastung_und_Platzangebot#Haupt" from="3376" to="3389" target="Fahrradplätze" polarity="neutral"/>
+            <Opinion category="Komfort_und_Ausstattung#Reservierung" from="3395" to="3405" target="ausgebucht" polarity="negative"/>
+            <Opinion category="Auslastung_und_Platzangebot#Haupt" from="4032" to="4045" target="Fahrradplätze" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Die Jagdsaison ist eröffnet: Von dem verzweifelten Versuch einen Fahrradstellplatz im Nachtzug zu buchen. Nachdem wir zu zweit dreimal nachgezählt haben, steht fest: heute Nacht ist es soweit, der Zug, der uns und unsere Räder in 92 tagen in den sonnigen Süden bringen soll wird heute um 24:00 Uhr zur Buchung freigegeben. Ich stelle mir den Wecker auf 0:30 Uhr, da ich die Erfahrung gemacht habe, dass man Punkt 24:00 Uhr eh nur stundenlang in der Warteschleife hängt. Als der Wecker zu besagter Zeit klingelt, brauche ich zunächst einen Moment um mich zu orientieren, ich wanke zum Klo, nehme auf dem Rückweg zum Bett das Telefon mit und wähle die Nummer für den Kummer. Es klingelt zwei mal, bevor das vertraute Ding Dong ertönt und man sich gleich, wie auf einem Bahnhof fühlt. Eine nette aber irgendwie mechanische Stimme heißt mich herzlich willkommen bei der Servicenummer der Deutschen Bahn. Obwohl ich mir ganz sicher bin, dass ich in meinem Bett sitze erklärt sie mir, dass ich mich im Hauptmenü befinde. Aus jahrelanger Erfahrung weiß ich, dass es jetzt Zeit ist, die 1 zu drücken. Anschließend teilt mir die Stimme mit, was ich offensichtlich will und schickt mich in ein weiteres Hauptmenü Hier zögere ich etwas: Muss ich die 1 drücken, weil ich eine Fahrkarte kaufen will oder die 6, weil ich ein Fahrrad mitnehmen will. Eigentlich will ich doch beides, ist das dann die 16 frage ich mich kurz in meinem Dämmerzustand und entscheide mich dann für die 6. Ich erfahre erneut, was ich will, dass die Wartezeit kostenlos ist und das ich schnellstmöglich verbunden werde. Erfreulicherweise beträgt die Wartezeit auch nur eine Minute. Während ich mich noch freue, dass ich dieses Jahr nicht einen halben Roman lesen muss, während neben mir das auf laut gestellte Telefon immer wieder dieselben Ansagen säuselt, knackt es auch schon in der Leitung. Ein offensichtlich ausgeschlafenerer Mann, als ich es bin, meldet sich mit: „Einen wunderschönen guten Morgen, was kann ich für sie tun?“ Ich trage mein Anliegen vor und höre wie seine Finger über die Tastatur fliegen. Er brabbelt vor sich hin und fragt dreimal nach, wann der Zug in Köln abfahren soll. Da fällt es mir wieder ein: Die Wartezeit war umsonst, die Beratungszeit wird hingegen mit einem saftigen Tarif abgerechnet. Steckt hinter seiner Langsamkeit also System oder ist er einfach doch nicht so wach, wie er sich anhört? Nach einer gefühlten Ewigkeit sind wir endlich bei der Reservierung des Liegewagens angekommen. Ich bekomme zwar nicht die gewünschten Plätze in der Mitte, ahne jedoch noch nicht, dass alles noch viel schlimmer kommt und gebe mich mit den oberen Plätzen zufrieden. Wieder vergeht eine halbe Ewigkeit gefüllt von dem Klappern der Tastatur und dem Gebrummel des Mitarbeiters. Ich denke zwar immer mal wieder an meine Telefonrechnung, fühle mich aber auf der sicheren Seite und nehme die Kosten für einen Stellplatz in dem Zug gerne in Kauf. Ich überlege schon, ob ich nicht doch während dieser Prozedur etwas lesen soll, als ich die Stimme wieder vernehme: „So dann kommen wir zu den Fahrradstellplätzen, was sagten sie noch gleich, wie viel brauchen sie?“ Ich frage mich langsam, wie logisch er eigentlich denkt und sage schlapp zwei. Es folgt wieder das bekannte Klappern und Brummen. Und dann plötzlich Stille. Ich ahne Fürchterliches und bekomme es im nächsten Atemzug bestätigt. Die Fahrradplätze sind ausgebucht. Bevor mich das schwarze Loch endgültig verschlingt, frage ich noch nach dem zur gleichen Zeit fahrenden IC – nur Weicheier brauchen einen Liegewagen- doch auch hier – alles ausgebucht. Ich verabschiede mich und sinke in mein Kopfkissen, doch an Schlafen ist erst einmal nicht zu denken. Nicht nur, dass uns ein wertvoller Tag in unserer Reiseplanung flöten gegangen ist, ich muss mich in der nächsten Nacht wieder ans Telefon klemmen und bekomme langsam Angst, dass ich da ebenfalls erfolglos bin. Meine Gedanken fahren Achterbahn: Ich reg mich abwechselnd über die Deutsche Bahn auf, die auf den Fernstrecken nur so weniger Fahrradplätze zur Verfügung stellt und über mich, dass ich nicht schon um 24:00 Uhr aufgestanden bin,. Wenn dann noch Zeit bleibt, frage ich mich, wie innerhalb einer halben Stunde die Plätze in zwei Zügen ausgebucht sein können. Doch dann muss ich schmunzeln, denn es ist erst ein Paar Tage her, dass ich in einem Interview auf die Frage, ob das Glas für mich eher voll oder eher leer ist, geantwortet habe, dass es für mich in der Regel eher halb voll ist. Nur beim Reisen scheinen alle Regeln bei mir auszusetzen. Ich schaffe es sogar bei einer Dreimonatigen Trip nach eineinhalb Monaten zu jammern, dass die Reise bald vorbei ist. Über diese Gedanken schlafe ich dann doch ein und als meine Tochter am nächsten Moorgen erwartungsvoll den Kopf zur Tür rein streckt, habe ich mich mit der Situation abgefunden. Heute Nacht stelle ich mir den Wecker auf kurz vor 24.00 Uhr – die Zeit für’s Klo habe ich schon einkalkuliert – und außerdem hab ich mir so eine unmögliche Zugverbindung herausgesucht, die hoffentlich niemand haben will.</text>
+    </Document>
+    <Document id="http://twitter.com/Garagantua/statuses/660535430367039488">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>"@Garagantua Habe dann doch die Info bekommen, dass ""wir"" ""die Bahn um 39"" nehmen. Anderer Stadtteil als ich und ohne Richtungsangabe/Nummer."</text>
+    </Document>
+    <Document id="http://www.facebook.com/144537361776/posts/10153622860796777?comment\_id=10153622865891777#144537361776\_10153622860796777\_10153622865891777">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: stuttgarter-nachrichten.de Noch teurer.... Und dann wollen alle,dass man auf die Bahn umsteigt... Klappt nicht so ganz!</text>
+    </Document>
+    <Document id="http://twitter.com/msrnsr/statuses/671360092042866690">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @WERKSTATTATLAS: InnoTrans 2016: Marktmotor auf Hochtouren https://t.co/maqO8ufDQP #Verkehr #Bahn #News</text>
+    </Document>
+    <Document id="http://twitter.com/Konstanze_MaHe/statuses/674491962855174144">
+        <Opinions>
+            <Opinion category="Atmosphäre#Haupt" from="4" to="12" target="Menschen * am Telefon erzählen müssen" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Das Menschen immer ihre halbe Lebensgeschichte in der Bahn am Telefon erzählen müssen, verstehe ich nicht.</text>
+    </Document>
+    <Document id="http://twitter.com/Xanatori/statuses/674502323268284417">
+        <Opinions>
+            <Opinion category="DB_App_und_Website#Haupt" from="42" to="59" target="Windows Phone App" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>@DB_Bahn ist das euer Ernst, dass ihr die Windows Phone App einstellt? Also muss ich mir wohl doch ein Auto zulegen...</text>
+    </Document>
+    <Document id="http://www.marktguru.at/Angebot/Merkur-Merkur-Reisen-Indien-Rundreise:392985/">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Merkur-Reisen Indien-Rundreise für 1.099,00 Euro im Angebot Flug mit Austrian nach Delhi und zurück Rundreise im Reisebus (lt. Reiseverlauf) 12 Nächte im Doppelzimmer in 4-Sterne Hotels Halbpension Eintritte und Besichtigungen (lt. Programm) Abschiedsabendessen und Wash &amp; Change Rooms am letzten Abend Deutsch</text>
+    </Document>
+    <Document id="http://www.focus.de/regional/bayern/braende-teure-reparatur-eines-rasenmaehers\_id\_4789077.html">
+        <Opinions>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="164" to="174" target="Entgleiste" polarity="negative"/>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="265" to="276" target="entgleisten" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Brände: Teure Reparatur eines Rasenmähers Bayern einem Neuköllner Pflegeheim ist ein 89-jähriger Heimbewohner ums Leben gekommen. » Brandenburg vor 57 Minuten Bahn Entgleiste S-Bahn: Reparatur dauert bis Anfang nächster Woche Berlin (dopa/bb) - Auf der Strecke der entgleisten S-Bahn der Linie</text>
+    </Document>
+    <Document id="http://www.gutefrage.net/frage/alterseinschraenkungen-beim-fernbus-fahren#answer-163851804">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Alterseinschränkungen beim Fernbus fahren? Hi, das müsste bei der Fernlinie irgenndwo stehen. Zb Meinfernbus: http://meinfernbus.de/kundenservice/alleinreisende-minderjaehrige.html gutefrage.net-Tag: Alter gutefrage.net-Tag: Fernbus</text>
+    </Document>
+    <Document id="http://www.ltsh.de/presseticker/2015-12/09/17-56-56-73b9/">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Reihenfolge der Beratung der 38. Tagung SCHLESWIG-HOLSTEINISCHER LANDTAG 9. Dezember 2015 18. Wahlperiode Reihenfolge der Beratung der 38. Tagung Hinweis: Soweit einzelne Tagesordnungspunkte durch Fettung hervorgehoben sind, ist der Beginn der Beratung zeitlich festgelegt. Im Falle von Ant</text>
+    </Document>
+    <Document id="http://www.mazda-forum.info/mazda3-und-mazda3-mps/65522-spritverbrauch-mazda-3-a-8.html#75">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Spritverbrauch Mazda 3 Zitat von Gladbacher Moin Nemi, also bleibt es für jeden Fahrer eine eigene Entscheidung es zu testen. Bei positivem Ergebnis kann man es dann weiterführen. Ich habe jetzt einen Verbrauch von 10,4 Litern/100 km bei Stadt/Landstraße/BAB am Wochenende gehabt...bei zügiger Fahrt auch auf der Bahn... Was bedeutet bei dir zügige Fahrt? ^^</text>
+    </Document>
+    <Document id="http://www.cash.ch/news/im\_fokus/die\_schweizer\_top\_und\_flopaktien\_2015-3400243-635">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Die Schweizer Top- und Flop-Aktien 2015 | Im Fokus Die Schweizer Top- und Flop-Aktien 2015 Der alte Fuchs Martin Ebner ist zurück: Er hält 18 Prozent an Galenica, der besten Schweizer Aktie 2015. Bild: cash 31.12.2015 06:38 Der Swiss Market Index verzeichnet 2015 zum ersten Mal seit drei Jahren ein</text>
+    </Document>
+    <Document id="http://twitter.com/DetlevKussmann/statuses/601266410912874496">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="27" to="37" target="Bahnstreik" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Deutsche Bahn: GDL beendet Bahnstreik http://t.co/wHJKh4Fkhn via @zeitonline</text>
+    </Document>
+    <Document id="http://twitter.com/MrSunex/statuses/682604388561629185">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@luckli_lucas joo :D werde gegen 18:20 ca nen Döner holen und versuche bis 18:52 die Bahn zu nehmen. Oder ich nehm die Bahn um 19:12</text>
+    </Document>
+    <Document id="http://www.facebook.com/357252820571/posts/10154212005015572?comment\_id=10154212021115572#357252820571\_10154212005015572\_10154212021115572">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="272" to="280" target="erneuert" polarity="positive"/>
+            <Opinion category="Allgemein#Haupt" from="285" to="291" target="gebaut" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Re: rosenheim24 Mei irgendwann muss ausgebaut und repariert werden. Was soll der ganze stress. Die Bahn macht das ja nicht zum Spaß und weil sie lust haben so viel geld zu investieren. Gleiße, weichen und hochspannungsleitungen nutzen sich nun mal auch ab. Lieber es wird erneuert und gebaut und dafür hat man paar Monate chaos als dass nochmal sowas wie in Bad Abiling passiert.</text>
+    </Document>
+    <Document id="http://twitter.com/roadshopper/statuses/686905043556028416">
+        <Opinions>
+            <Opinion category="Connectivity#WLAN_und_Internet" from="51" to="55" target="WLAN" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>Surfen auf Schienen : Stuttgart testet kostenloses WLAN in S- Bahn https://t.co/wDNZHG6cgN</text>
+    </Document>
+    <Document id="http://neuried.cityvisits.de/index.cfm/Neuried/News/0/0/0/3173135524/">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Neuried, News, 0&gt; 00, 3173135524, Neuried, Gemeinsamkeit: Mitfahrgelegenheiten fahren. Und offenbar dasselbe Ziel. Vielleicht klappt's auf den zweiten Blick. Gemeinsam speisen, statt alleine reisen BlaBlaCar-Trends zeigen, dass Mitfahren unter Studenten längst als</text>
+    </Document>
+    <Document id="http://twitter.com/3lectron3lue/statuses/601413580592914432">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@Lenas_view �� sitze in der Bahn und lausche Catapult. �� Ganz am Ende hört man wie ein Katapult gespannt wird, stimmt's?</text>
+    </Document>
+    <Document id="http://www.facebook.com/53367057696/posts/10154180289312697?comment\_id=10154180580632697#53367057696\_10154180289312697\_10154180580632697">
+        <Opinions>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="45" to="55" target="Verspätung" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: NETT-WERK Köln Die s11 hat grundsätzlich Verspätung! ! Vielleicht eine Bahn früher nehmen lassen Muss meine Tochter leider auch machen</text>
+    </Document>
+    <Document id="http://twitter.com/burkhardewert/statuses/718319593228529664">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>"""Wagen fahren in umgekehrter Reihenfolge ein"": #Bahn-Chef Grube verspricht in @noz_de rasches Ende dieser Durchsage https://t.co/w9Ndsz3mwJ"</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/912110895491519?comment\_id=912124842156791#152033178165965\_912110895491519\_912124842156791">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+            <Opinion category="Allgemein#Haupt" from="177" to="186" target="Regelfall" polarity="negative"/>
+            <Opinion category="Allgemein#Haupt" from="434" to="441" target="Problem" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: DB Bahn Die Entschuldigung bringt mir nichts und wäre ja auch nur anzunehmen, wenn es ein bedauerlicher Einzelfall wäre. Leider ist das auf unserer Strecke mittlerweile der Regelfall. Was gedenkt die Bahn dagegen zu tun? Und wie kann man denn Mal Jemanden mit seinen Nachrichten erreichen, der was zu sagen hat. Bitte nicht übel nehmen, ihr macht nur euren Job im Beschwerdemanagement! Ich möchte aber endlich eine Lösung für das Problem, dass es nun durchgehend seit letzten Jahr gibt!</text>
+    </Document>
+    <Document id="https://plus.google.com/+jwildeboer/posts/ZKNvanH77BA#z13uxzzzqwrtyxaq104cjjuh0lfkg1wro20.1432197263329911">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="494" to="515" target="erpresserischen Bande" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: Die GDL hat nach hartem Kampf einen wichtigen Sieg errungen. Die Bahn musste einlenken. Punkt. "+Thomas Heine gottseidank sind nicht alle Arbeitnehmer so rücksichtslos. Warum soll es nicht auch welche geben, die gerne arbeiten, die froh sind, wenn sie eine Arbeit haben. +Heiko Adams jetzt hab ich gerade gelesen, dass es nicht mit mir zu tun hat. Jetzt plötzlich wollten sie mir doch ""weh tun"" wie Sie es ausdrücken. Gut. hat geklappt. Nur ich sponsere mit meinem Geld das Gehalt dieser erpresserischen Bande nicht mehr."</text>
+    </Document>
+    <Document id="http://twitter.com/m\_wabersich/statuses/601486242547634176">
+        <Opinions>
+            <Opinion category="Service_und_Kundenbetreuung#Haupt" from="35" to="42" target="Support" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>@DB_Bahn Alles klar. Danke für den Support!</text>
+    </Document>
+    <Document id="http://www.wa.de/wirtschaft/bahn-plant-mehr-baustellen-folgen-sollen-gemildert-werden-zr-6081564.html">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Bahn plant mehr Baustellen - Folgen sollen gemildert werden Berlin - Die Deutsche Bahn erhöht die Zahl ihrer Bauprojekte in diesem Jahr deutlich. Geplant sind nach Angaben des Unternehmens rund 850 Vorhaben, im vergangenen Jahr waren es 500. Mit einem besseren Baustellen-Management sollten aber die Auswirkun</text>
+    </Document>
+    <Document id="http://www.br.de/nachrichten/unterfranken/inhalt/bahn-ebern-sperrung-100.html">
+        <Opinions>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="0" to="16" target="Streckensperrung" polarity="negative"/>
+            <Opinion category="Zugfahrt#Streckennetz" from="91" to="98" target="Strecke" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Streckensperrung bei Ebern: Bahn-Kunden müssen auf Busse umsteigen | Unterfranken "Auf der Strecke Ebern-Hallstadt ist das ""Nadelöhr"" Breitengüßbach. Die Bahn könnte zwar zwischen Breitengüßbach und Ebern noch fahren. Die Strecke wäre aber vom übrigen Netz abgeschnitten. Das heißt: Die Züge könnten nicht betankt und – wenn nötig –"</text>
+    </Document>
+    <Document id="http://www.gutefrage.net/frage/wieso-sind-bahnfahrer-so-gemein#comment-109536275">
+        <Opinions>
+            <Opinion category="Service_und_Kundenbetreuung#Zugbetreuung" from="11" to="21" target="Bahnfahrer" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Wieso sind Bahnfahrer so gemein? An deiner Aussage war eigentlich nichts falsch, aber warum das Lappen am Ende? Muss nicht sein, Beleidigungen machen eine Aussage immer schlechter und sind allgemein unangebracht, vorallem auf so einer Seite. gutefrage.net-Tag: BVG gutefrage.net-Tag: Bahn gutefrage.net-Tag: dumm gutefrage.net-Tag: gemein gutefrage.net-Tag: verkehrsmittel</text>
+    </Document>
+    <Document id="http://www.facebook.com/494855690634189/posts/844397762346645?comment\_id=844464589006629#494855690634189\_844397762346645\_844464589006629">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Bist Du heute schon geschwommen? Fakt 2...ja ist eben die beste Bahn mit dir. Manche wollen ihren neuen Neo auch nur ausführen, Fakt 3....Es wird besser.</text>
+    </Document>
+    <Document id="http://www.t-online.de/regionales/id\_76833802/meldungen-aus-dem-bereich-gaggenau.html">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Meldungen aus dem Bereich Gaggenau Gernsbach Meldungen aus dem Bereich Gaggenau 31.01.2016, 18:35 Uhr Gernsbach (ots) - Neben vielen Fasnachtsbegeisterten waren am Samstagnachmittag auch verschiedene Personen auf dem Umzug in Gernsbach, die sich nicht an die Empfehlungen der Veranst</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/880379431997999#152033178165965\_880379431997999">
+        <Opinions>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="106" to="113" target="zu spät" polarity="negative"/>
+            <Opinion category="Informationen#Haupt" from="220" to="229" target="Rundbrief" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: DB Bahn Sehr geehrte Damen und Herren der DB Bahn, dass die Züge der Deutschen Bahn dann und wann mal zu spät kommen ist ja allgemein bekannt, aber seit wann tragen Sie auch noch zur Volksverdummung bei? Im neuesten Rundbrief zur My BahnCard 50 sind sage und schreibe 16 Rechtschreibfehler! Wenn Sie meinten dies wäre eventuell belustigend für die heutige Jugend oder würde Ihr nicht auffallen, dann haben Sie sich leider geschnitten. Wer Flebixel statt flexibel schreibt sollte doch bitte einen Deutschkurs besuchen. In Zukunft würde Ich mich über Briefe in ordentlichem Deutsch freuen. Mit freundlichen Grüßen, Robert Keegan</text>
+    </Document>
+    <Document id="http://twitter.com/SinaTheQueen/statuses/682744433310306304">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Feiertage.. wenn Leute mit Bus &amp; Bahn unterwegs sind, die es nicht können... Hoffe in München ist alles safe :(</text>
+    </Document>
+    <Document id="http://www.facebook.com/472061332924101/posts/756191911177707?comment\_id=756219464508285#472061332924101\_756191911177707\_756219464508285">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: RT Deutsch "Ömer Graham akzeptier die deutsche Kultur du undankbarer Türke. Komm wir machen denen nach und gehen auf dem Oktoberfest uns voll saufen und vergewaltigen alles was nicht niet und nagelfest ist und kotzen danach die ganze Bahn voll. Aber zuerst müssen wir auf die Pegida demo und ausländer raus brüllen. Um den feinschliff zu verpassen um richtige Naz... ehm ""deutsche"" zu werden natürlich sagen, dass wir keine Nazis sind. Das sollte reichen"</text>
+    </Document>
+    <Document id="https://gebirge7.wordpress.com/2016/05/07/drachenfels-siebengebirge-deutschland-zahnradbahn-bahn-historic-railway-germany-nibelungen-niemcy-allemagne-alemanya-nofilter-emigrandatv-travel-podroz-instatravel-most-kolej-wycie/">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>#Drachenfels #Siebengebirge #Deutschland #Zahnradbahn #Bahn #historic #railway #Germany #Nibelungen #Niemcy #Allemagne #Alemanya #nofilter #emigrandatv #travel #podróż #instatravel #most #kolej #wycieczka #Naturpark #parcnaturel #przyroda #latergram #visitgermany | Bilder aus dem Siebengebirge bei Bonn #Drachenfels #Siebengebirge #Deutschland #Zahnradbahn #Bahn #historic #railway #Germany #Nibelungen #Niemcy #Allemagne #Alemanya #nofilter #emigrandatv #travel #podróż #instatravel #most #kolej #wycieczka #Naturpark #parcnaturel #przyroda #latergram #visitgermany 0</text>
+    </Document>
+    <Document id="http://twitter.com/SebRoloff/statuses/616475603567542272">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="59" to="71" target="Tag versauen" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Wäre schön wenn die S-Bahn mir nicht um die Zeit schon den Tag versauen könnte...</text>
+    </Document>
+    <Document id="http://www.southside.de/de/infos/news/gruen-rockt-2016/">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Grün Rockt 2016 19.05.2016 Unser Southside Recyclingprojekt läuft immer besser und wir steigern uns von Jahr zu Jahr! Daher heißt es auch 2016 wieder „Wir sortieren aus!“. Was das bedeutet? Der Großteil des gesammelten Southside Abfalls wird in externe Sortieranlage</text>
+    </Document>
+    <Document id="http://www.basellandschaftlichezeitung.ch/ausland/oesterreichs-neuer-kanzler-kern-will-hetze-entgegnen-130280749">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>"Österreichs neuer Kanzler Kern will ""Hetze entgegnen""" Die Situation der Flüchtlingskrise müsse mit Menschenwürde gelöst werden, ohne die soziale Sicherheit zu vernachlässigen. «Die Hetze gegen Minderheiten müssen wir mit einem eigenen Programm entgegnen», sagte der SPÖ-Politiker und ehemalige Bahn-Chef.</text>
+    </Document>
+    <Document id="http://twitter.com/hmbuchmann/statuses/728964355811880960">
+        <Opinions>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="19" to="26" target="Ausfall" polarity="negative"/>
+            <Opinion category="Zugfahrt#Technische_Schäden_und_Störungen_am_Zug" from="65" to="79" target="Störung am Zug" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>RT @DB_Info: #RE17 Ausfall zweier Züge infolge einer technischen Störung am Zug: https://t.co/SKtg4YcxCz #bahn #NW</text>
+    </Document>
+    <Document id="http://www.facebook.com/431505810323679/posts/709491595858431#431505810323679\_709491595858431">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Niedersachsen ist am Zug Polizeiliche Ermittlung! Auf der Strecke Dortmund Hbf</text>
+    </Document>
+    <Document id="http://twitter.com/trendybizz/statuses/629127254732316672">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Erst in Jahren freies Wlan in Regionalzügen - Die Bahn will kostenlosen Internetzugang 2016 auch den... http://t.co/211IJ50hGZ #NEWS</text>
+    </Document>
+    <Document id="http://twitter.com/MalteHerwig/statuses/682663736302243842">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @DLFNachrichten: Wieder nix bei der Bahn. - Was kommt 2016? Die #DLFNachrichten wissen es schon. #VorsichtSatire https://t.co/LUj3nPyRD8</text>
+    </Document>
+    <Document id="http://www.berlinonline.de/themen/kleinanzeigen/detail/397724724/">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Kleinanzeigen – Jahreskarte ab | 01.01.-31.12.2016 Jahreskarte ab - 01.01.-31.12.2016 Hallo!Jahreskarte abzugeben für den o.g. Zeitraum.Liebe Grüße… 09.12.2015 um 09:50 Uhr 12059 Bahn &amp; ÖPN</text>
+    </Document>
+    <Document id="http://www.facebook.com/152033178165965/posts/762154057239328#152033178165965\_762154057239328">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="13" to="24" target="Bahn-Streik" polarity="negative"/>
+            <Opinion category="Allgemein#Haupt" from="45" to="55" target="kritisiert * Bahn" polarity="negative"/>
+            <Opinion category="Allgemein#Haupt" from="258" to="267" target="Kritik an * Deutschen Bahn" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>fr-online.de Bahn-Streik: Schlichter Ramelow kritisiert die Bahn http://www.fr-online.de/bahn-streik/bahn-streik-schlichter-ramelow-kritisiert-die-bahn,30486332,30751328.html Der im Bahn-Streik für die Schlichtung zuständige Bodo Ramelow (Linke) übt scharfe Kritik an der Bundesregierung und der Deutschen Bahn. Die GDL nimmt Thüringens Ministerpräsident ausdrücklich in Schutz.</text>
+    </Document>
+    <Document id="http://www.facebook.com/114901331916603/posts/1014482531958474?comment\_id=1014526465287414#114901331916603\_1014482531958474\_1014526465287414">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="32" to="56" target="eine Augen... ein Fahrer" polarity="negative"/>
+            <Opinion category="Sonstige_Unregelmässigkeiten#Haupt" from="71" to="89" target="&quot;&quot;parkenden&quot;&quot; Bahn" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: WZ Wuppertal "Die Bahn hat keine Augen... ein Fahrer ist bei einer ""parkenden"" Bahn wohl eher nicht zugegen!"</text>
+    </Document>
+    <Document id="http://twitter.com/vonRomberg/statuses/601313983153479680">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@lokfuehrer_tim Nimm die Bahn! Die fährt wieder!</text>
+    </Document>
+    <Document id="http://www.facebook.com/270856339684060/posts/716867125082977?comment\_id=716882801748076#270856339684060\_716867125082977\_716882801748076">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Lokführer Sandra Gienger , du hörst dich wahrscheinlich gerne reden. Wenn ich so einen Mist lese. Du hast bestimmt Ahnung, wie es jeden Tag in Bus und Bahn zugeht. Da sage ich nur.... Dummschwätzer....</text>
+    </Document>
+    <Document id="http://twitter.com/ichmagmuell/statuses/682500270941716480">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="31" to="35" target="Bahn" polarity="positive"/>
+            <Opinion category="Design#Haupt" from="36" to="42" target="schick" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>❝missfiebie: Scheiße ist diese Bahn schick! *__* https://t.co/thkQ3xGJl7</text>
+    </Document>
+    <Document id="http://www.youtube.com/watch?v=v5FNBjxyyMQ">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="46" to="52" target="Streik" polarity="positive"/>
+            <Opinion category="Allgemein#Haupt" from="129" to="135" target="Streik" polarity="positive"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>positive</sentiment>
+        <text>21 05 15 Einlenken der Bahn Lokführer beenden Streik nach Einigung auf Schlichtung 21 05 15 Einlenken der Bahn Lokführer beenden Streik nach Einigung auf Schlichtung</text>
+    </Document>
+    <Document id="http://twitter.com/NicNacke/statuses/733210899373293568">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Leider waren die Bahn zu schnell vorbei. Könnte kein Bild machen. :( #lasttweet</text>
+    </Document>
+    <Document id="http://telekomhilft.telekom.de:80/t5/Frage-stellen/AW-Digitalisierungsbox-Premium/qaq-p/1383580/comment-id/597133#M597133">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Digitalisierungsbox Premium "Danke für die Info. Stimmt demzufolge mit meinen Recherchen überein. Klar ""Business Endgerät"" ist schon der richtige Ausdruck für diese Box. Im Zusammenhang mit der Frage geht es um einen Geschäftskunden, der aber in seinem Unternehmen sensible Messungen durchführt und in diesem Zusammenhang alle Drahtlosverbindungen deaktivieren muss. Wäre natürlich mit einem Tastendruck einfacher. Alle Nebenstellen sind mit kabelgebundenenTelefonen versehen und da eignet sich diese Box Premium mit seinen bis zu 15 Teilnehmern hervorragend. DANKE #thc_fragestellen Rating: 0.00"</text>
+    </Document>
+    <Document id="http://reise.kleinezeitung.at/index.php?action=detail&amp;id=107264">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Hotel Side West Park - Türkei. € 449,- pro Person im DZ (7 Tage). Hotel Side West Park **** - Side Türkei Verpflegung: All Inclusive z.B. Flug am 13.06.2015 ab Salzburg im Stadtteil: Evrenseki Strand: Entfernung zum Strand: 600 m, Hotelshuttle (inklusive, alle 30 Minuten); hoteleigener Strand; Sandstrand Entfernun</text>
+    </Document>
+    <Document id="http://www.youtube.com/watch?v=gnrAVDvX65I#z13itb3zgnjxxpdsd23eshbpvvzcf3xzk04">
+        <relevance>false</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Liebe Lisa, erst einmal vie... Liebe Lisa, erst einmal vielen Dank für das wunderbare Video. Ich bin überzeugt davon, dass du nach dem Studium - wenn du denn diesen Weg einschlagen wirst - vielen Leuten helfen kannst. Leider habe ich nicht die besten Erfahrungen mit Psychologen/Psychiatern u.ä. gemacht. Ich musste lange suchen und etliche Therapien abbrechen, bis ich jemanden gefunden hatte, der mir helfen konnte. Daher macht es mich umso glücklicher, dass auch Leute wie du Psychologie studieren. Mich hat ein Missbrauch aus meiner frühen Jugend aus der Bahn gerissen...Der Rest stürzte wie eine Lawine auf mich herab: Depression, Ess- und Angststörung, Panikattacken, SvV usw. Heute bin ich 19 und ich würde behaupten, dass ich mittlerweile wieder ein einigermaßen geregeltes Leben führe. Ich habe immer noch Angst vor Menschen, kann ähnlich wie du nicht telefonieren, mich nicht an der Uni melden etc. Dennoch habe ich etwas gelernt, was ich vor wenigen Jahren noch gar nicht für möglich gehalten hätte: mich selbst wieder zu lieben. Und positiv auf das Leben zu schauen. Auch wenn es viele Tage gibt, in denen ich mich nicht aus der Wohnung traue, merke ich, dass es immer besser wird. Dass sich das Kämpfen lohnt! Dass ich stolz darauf sein kann, meine Ängste nicht mehr mit der ganzen Selbstdestruktion kompensieren zu müssen, dass ich mich wieder dazu aufraffen konnte, aufzustehen. Und ich bin mir sicher, dass dieses (wenn auch kitschige) Klischee stimmt: Es gibt immer ein Licht am Ende des Tunnels.﻿</text>
+    </Document>
+    <Document id="http://twitter.com/MistressEmmaG/statuses/728898828741578753">
+        <Opinions>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="116" to="125" target="pünktlich" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>RT @andreashhSZ: @MistressEmmaG Man sollte die Keuschhaltung bei der Deutschen Bahn einführen. Dann kommen die alle pünktlich, wetten?</text>
+    </Document>
+    <Document id="http://www.facebook.com/114360055263804/posts/1136165206416612?comment\_id=1136192046413928#114360055263804\_1136165206416612\_1136192046413928">
+        <Opinions>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="55" to="61" target="später" polarity="negative"/>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="124" to="134" target="Verspätung" polarity="negative"/>
+            <Opinion category="Atmosphäre#Sauberkeit_allgemein" from="173" to="183" target="dreckigere" polarity="negative"/>
+            <Opinion category="Atmosphäre#Sauberkeit_allgemein" from="250" to="260" target="Dreckwolke" polarity="negative"/>
+            <Opinion category="Zugfahrt#Pünktlichkeit" from="371" to="383" target="Verspätungen" polarity="negative"/>
+            <Opinion category="Ticketkauf#Haupt" from="441" to="447" target="teurer" polarity="negative"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>negative</sentiment>
+        <text>Re: Leipziger Volkszeitung Meine Bahn kommt jeden früh später ... das ist schon normal ... sogar die EasyGo zeigt jeden Tag Verspätung an ... 54€ jeden Monat für immer mehr dreckigere Bahnen und beim Bremsen sitzt man in der Linie 16 hinten in einer Dreckwolke ... ich weiß das es jetzt nicht unmittelbar mit dem Artikel zu tun hat und daß die Fahrer nicht immer mit den Verspätungen zu tun haben, aber mich ärgert es enorm, daß es nur noch teurer wird</text>
+    </Document>
+    <Document id="https://plus.google.com/112359926923981444483/posts/AQEBsC6wb2S">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Spielzeug günstig online kaufen - Steiff Teddy Deutsche Bahn Spielzeug günstig online kaufen - Steiff Teddy Deutsche Bahn﻿ -Article: Steiff Teddy Deutsche Bahn http://ow.ly/b9oN5001IBF</text>
+    </Document>
+    <Document id="http://forum.chip.de/smartwatches-fitness-tracker-vr-brille/samsung-gearfit-kompatibel-galaxy-express-1841779.html#post11673504">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Re: Samsung GearFit kompatibel zu Galaxy Express "ich besitze selbst einen gear fit. Basierend auf meinen Erfahrungen damit, würde ich mich beim erneuten Kauf aber für ein anderes gerät entscheiden. Der Grund dafür ist, dass die Samsung die Weiterentwicklung der Software eingestellt hat. Du hast fast keine Unterstützung bei den Drittanbieter-Apps. Also eigentlich hast du nur die Eingebauten Funktionen und +2 sinnvolle Apps aus dem Appstore und eine Menge nicht ganz so sinnvoller Apps. Schlaf-Tracking hat bei mir genau 3 mal funktioniert. Gear Fit erkennt den Schlaf daran, dass man sich für 30 Minuten nicht bewegt. Aber vielleicht werde ich einfach jede Nacht von Aliens entführt und morgens kurz vor dem Wecker zurück gebracht. Willst du eine Smartwatch oder einen Fitness-Tracker? Wenn ins Sportstudio gehst anstatt draußen zu laufen oder Fahrrad zu fahren, bringt es dir auch keine Vorteile außer der Stoppuhr. Der eingebaute Herzfrequenzmesser braucht beim Sport 2-3 Anläufe, weil die Hand entspannt sein muss. Im Endeffekt ist gear fit nur dazu gut, um die Musik zu steuern, über Alarme, Termine, Nachrichte oder Anrufe benachrichtigt zu werden, den Anruf ggf abzulehnen. Textnachrichten wie SMS, Facebook oder Whatsapp kannst du auch bedingt auf dem Bildschirm lesen. Dann weißt du zumindest, ob es sich lohnt zum Handy zu greifen. Und es kann die Schritte abschätzen. Das Zugfahren wird oft als ""Gehen"" gewertet, was aber eher gegen die Deutsche Bahn spricht als gegen Gear Fit. Wenn du eine Smartwatch willst, dann definitiv ein anderes Gerät."</text>
+    </Document>
+    <Document id="http://twitter.com/tentos85/statuses/686943973559156737">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@DB_Bahn Vielen Dank. 5 Minuten sind wohl eher zu knapp (was denken Sie?) Ich schaue aber, wie sich das entwickelt.</text>
+    </Document>
+    <Document id="http://twitter.com/Herr\_Nullblick/statuses/718394668430540800">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>@DB_Bahn @KuttnerSarah die fühlen sich auch gestört, wenn das Tier im Koffer ist! Und was ist, wenn man sich von Kindern gestört fühlt?</text>
+    </Document>
+    <Document id="http://twitter.com/herzgegenrechts/statuses/728956909030678528">
+        <Opinions>
+            <Opinion category="Allgemein#Haupt" from="0" to="0" target="NULL" polarity="neutral"/>
+        </Opinions>
+        <relevance>true</relevance>
+        <sentiment>neutral</sentiment>
+        <text>Mit der S-Bahn zur Friedrichstr... #bnf0705 #BerlinNazifrei</text>
+    </Document>
+</Documents>

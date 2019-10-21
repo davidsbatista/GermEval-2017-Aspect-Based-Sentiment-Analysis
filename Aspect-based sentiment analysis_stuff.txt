@@ -1,0 +1,6 @@
+Aspect-based sentiment analysis
+
+https://github.com/davidmogar/cucco
+https://github.com/cbaziotis/ekphrasis
+
+http://frncsrss.github.io/papers/rousseau-dissertation.pdf
